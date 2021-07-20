@@ -136,8 +136,6 @@ main {
 .hero {
   display: flex;
   min-height: 50vh;
-}
-.hero {
   grid-area: hero;
   flex-flow: row wrap;
   font-weight: lighter;
